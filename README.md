@@ -95,6 +95,12 @@ Recognized through multiple Shell Awards (2014–2023) for innovation, leadershi
 
 <hr style="border: 1px solid #0057B7; background-color: #0057B7; margin: 25px 0;"> 
 
+
+# Research Projects
+
+<a href="https://github.com/mahsamotegh/stagnant-reactor-diffusion-study"><img src="https://raw.githubusercontent.com/mahsamotegh/mahsamotegh/main/paper1.png" width="30%" /> </a> 
+
+
 ```
 
 “ Empowering innovation, sustainability, and leadership for a cleaner energy future.”
