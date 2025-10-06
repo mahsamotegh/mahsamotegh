@@ -102,8 +102,7 @@ Currently, I work as a freelance consultant in E-Mobility Strategy, Operations, 
 
 
 ```
-
-“ Empowering innovation, sustainability, and leadership for a cleaner energy future.”
+Empowering innovation, sustainability, and leadership for a cleaner energy future.”
 
 ```
 
