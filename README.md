@@ -51,13 +51,13 @@ Currently, I work as a freelance consultant in E-Mobility Strategy, Operations, 
 
 <p align="left"><strong>Strategic & Leadership Roles :</strong></p> <ul> <li>European Head of E–Mobility, <strong>Shell</strong> (2021–2024)</li> <li>Charging Network Operations Lead, <strong>Milence</strong> (2024)</li> <li>Strategy Advisor, New Energies & E–Mobility, <strong>Shell</strong> (2019–2020)</li> <li>Research & Trading Analyst, <strong>Shell Trading Rotterdam</strong> (2016–2019)</li> </ul> <p align="left"><strong>Key Achievements :</strong></p>
 
-Led commercial and operational strategy for Shell’s E–Mobility portfolio across Europe, including €0.25B investments.
+>- Led commercial and operational strategy for Shell’s E–Mobility portfolio across Europe, including €0.25B investments.
 
-Expanded Shell’s footprint into Turkey and Italy through strategic partnerships and growth frameworks.
+>- Expanded Shell’s footprint into Turkey and Italy through strategic partnerships and growth frameworks.
 
-Designed operational ecosystems enabling >99% uptime of EV charging networks.
+>- Designed operational ecosystems enabling >99% uptime of EV charging networks.
 
-Recognized through multiple Shell Awards (2014–2023) for innovation, leadership, and sustainable business impact.
+>- Recognized through multiple Shell Awards (2014–2023) for innovation, leadership, and sustainable business impact.
 
 <hr style="border: 1px solid #0057B7; background-color: #0057B7; margin: 25px 0;">
 
