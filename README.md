@@ -1,7 +1,7 @@
 # <p align="center"> Mahsa Motegh, PhD, MBA </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Focus_Areas:-E–Mobility%20%7C%20Energy%20Transition%20%7C%20Sustainable%20Growth%20%7C%20Strategic%20Leadership-ffffff?style=for-the-badge&logoColor=0057B7" alt="Focus Areas"/>
+    <img src="https://img.shields.io/badge/Focus_Areas:-E–Mobility%20%7C%20Energy%20Transition%20%7C%20Sustainable%20Growth%20%7C%20Strategic%20Leadership-EAEFEF?style=for-the-badge&logoColor=0057B7" alt="Focus Areas"/>
 </p>
 
 <p align="center">
@@ -49,15 +49,15 @@ Currently, I work as a freelance consultant in E-Mobility Strategy, Operations, 
 
  # Professional Expertise
 
-<p align="left"><strong>Strategic & Leadership Roles :</strong></p> <ul> <li>European Head of E–Mobility, <strong>Shell</strong> (2021–2024)</li> <li>Charging Network Operations Lead, <strong>Milence</strong> (2024)</li> <li>Strategy Advisor, New Energies & E–Mobility, <strong>Shell</strong> (2019–2020)</li> <li>Research & Trading Analyst, <strong>Shell Trading Rotterdam</strong> (2016–2019)</li> </ul> <p align="left"><strong>Key Achievements :</strong></p>
+<p align="left"><strong>Strategic & Leadership Roles :</strong></p> <ul> <li>European Head of E–Mobility, <strong>Shell</strong> (2021–2024)</li> <li>Charging Network Operations Lead, <strong>Milence</strong> (2024)</li> <li>Strategy Advisor, New Energies & E–Mobility, <strong>Shell</strong> (2019–2020)</li> <li>Research & Trading Analyst, <strong>Shell Trading Rotterdam</strong> (2016–2019)</li> </ul> <p align="left"><strong>Key Achievements :</strong></p> <ul>
 
->- Led commercial and operational strategy for Shell’s E–Mobility portfolio across Europe, including €0.25B investments.
+<li>Led commercial and operational strategy for Shell’s E–Mobility portfolio across Europe, including €0.25B investments.</li>
 
->- Expanded Shell’s footprint into Turkey and Italy through strategic partnerships and growth frameworks.
+<li>Expanded Shell’s footprint into Turkey and Italy through strategic partnerships and growth frameworks.</li>
 
->- Designed operational ecosystems enabling >99% uptime of EV charging networks.
+<li>Designed operational ecosystems enabling >99% uptime of EV charging networks.</li>
 
->- Recognized through multiple Shell Awards (2014–2023) for innovation, leadership, and sustainable business impact.
+<li>Recognized through multiple Shell Awards (2014–2023) for innovation, leadership, and sustainable business impact.</li>
 
 <hr style="border: 1px solid #0057B7; background-color: #0057B7; margin: 25px 0;">
 
@@ -98,11 +98,7 @@ Currently, I work as a freelance consultant in E-Mobility Strategy, Operations, 
 
 # Research Projects
 
-<a href="https://github.com/mahsamotegh/stagnant-reactor-diffusion-study"><img src="https://raw.githubusercontent.com/mahsamotegh/mahsamotegh/main/paper1.png" width="30%" /> </a> 
+<a href="https://github.com/mahsamotegh/stagnant-reactor-diffusion-study"><img src="https://raw.githubusercontent.com/mahsamotegh/mahsamotegh/main/paper1.png" width="30%" /> </a> <a href="https://github.com/mahsamotegh/multiphase-reactor-scaleup"><img src="https://raw.githubusercontent.com/mahsamotegh/mahsamotegh/main/paper2.png" width="30%" /> </a> 
 
 
-```
-Empowering innovation, sustainability, and leadership for a cleaner energy future.”
-
-```
 
