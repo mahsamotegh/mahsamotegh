@@ -96,9 +96,9 @@ Currently, I work as a freelance consultant in E-Mobility Strategy, Operations, 
 <hr style="border: 1px solid #0057B7; background-color: #0057B7; margin: 25px 0;"> 
 
 
-# Research Projects
+# Leader Author Papers
 
-<a href="https://doi.org/10.1016/j.cej.2014.02.075"><img src="https://raw.githubusercontent.com/mahsamotegh/mahsamotegh/main/paper1.png" width="30%" /> </a> <a href="https://doi.org/10.1021/es403378e"><img src="https://raw.githubusercontent.com/mahsamotegh/mahsamotegh/main/paper2.png" width="30%" /> </a> <a href="https://doi.org/10.1016/j.ces.2013.02.022"><img src="https://raw.githubusercontent.com/mahsamotegh/mahsamotegh/main/paper3.png" width="30%" /> </a> 
+<a href="https://doi.org/10.1016/j.cej.2014.02.075"><img src="https://raw.githubusercontent.com/mahsamotegh/mahsamotegh/main/paper1.png" width="30%" /> </a> <a href="https://doi.org/10.1021/es403378e"><img src="https://raw.githubusercontent.com/mahsamotegh/mahsamotegh/main/paper2.png" width="30%" /> </a> <a href="https://doi.org/10.1016/j.ces.2013.02.022"><img src="https://raw.githubusercontent.com/mahsamotegh/mahsamotegh/main/paper3.png" width="30%" /> </a> <a href="https://doi.org/10.1016/j.cej.2012.07.023"><img src="https://raw.githubusercontent.com/mahsamotegh/mahsamotegh/main/paper4.png" width="30%" /> </a>
 
 
 
