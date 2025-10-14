@@ -98,7 +98,7 @@ Currently, I work as a freelance consultant in E-Mobility Strategy, Operations, 
 
 # Research Projects
 
-<a href="https://github.com/mahsamotegh/stagnant-reactor-diffusion-study"><img src="https://raw.githubusercontent.com/mahsamotegh/mahsamotegh/main/paper1.png" width="30%" /> </a> <a href="https://github.com/mahsamotegh/multiphase-reactor-scaleup"><img src="https://raw.githubusercontent.com/mahsamotegh/mahsamotegh/main/paper2.png" width="30%" /> </a> 
+<a href="https://doi.org/10.1016/j.cej.2014.02.075"><img src="https://raw.githubusercontent.com/mahsamotegh/mahsamotegh/main/paper1.png" width="30%" /> </a> <a href="https://doi.org/10.1021/es403378e"><img src="https://raw.githubusercontent.com/mahsamotegh/mahsamotegh/main/paper2.png" width="30%" /> </a> <a href="https://doi.org/10.1016/j.ces.2013.02.022"><img src="https://raw.githubusercontent.com/mahsamotegh/mahsamotegh/main/paper3.png" width="30%" /> </a> 
 
 
 
